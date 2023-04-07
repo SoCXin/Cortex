@@ -7,10 +7,10 @@
 
 * Cortex-M
     * [Cortex-M0](https://www.soc.xin/Cortex-M0)
+    * [Cortex-M3](https://www.soc.xin/Cortex-M3)
 * Cortex-R
 * Cortex-A
 * Cortex-X
-
 
 Cortex-M系列基于ARMv7-M架构（用于Cortex-M3和Cortex-M4）构建，而较低的Cortex-M0+基于ARMv6-M架构构建。首款Cortex-M处理器于2004年发布，当一些主流MCU供应商选择这款内核，并开始生产MCU器件后，Cortex-M处理器迅速受到市场青睐。可以肯定的说，Cortex-M之于32位MCU就如同8051之于8位MCU——受到众多供应商支持的工业标准内核，各家供应商采用该内核加之自己特别的开发，在市场中提供差异化产品。例如，Cortex-M系列能够实现在FPGA中作为软核来用，但更常见的用法是作为集成了存储器、时钟和外设的MCU。在该系列产品中，有些产品专注最佳能效、有些专注最高性能、而有些产品则专门应用于诸如智能电表这样的细分市场。
 

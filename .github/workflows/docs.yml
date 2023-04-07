@@ -26,6 +26,7 @@ jobs:
       matrix:
         REPO:
           - Cortex-M0
+          - Cortex-M3
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
